@@ -1,3 +1,4 @@
+// 566. Reshape the Matrix
 class Solution {
     public int[][] matrixReshape(int[][] mat, int r, int c) {
         if((r==mat.length && c==mat[0].length)|| (mat.length * mat[0].length) !=(r*c))
