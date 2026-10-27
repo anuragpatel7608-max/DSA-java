@@ -1,3 +1,4 @@
+//Binary Search
 public class BinaryPrac{
     public static void main(String[] args) {
         int[] arr ={-12,-4,-1,0,1,2,6,7,8,9};
